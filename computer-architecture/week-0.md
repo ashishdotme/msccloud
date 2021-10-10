@@ -1,5 +1,0 @@
-# Simplified Microcomputer
-
-## CPU
-
-## 
