@@ -4,7 +4,7 @@ class RecommendedWeight:
         self.age = age
 
     def display(self):
-        return (self.height - 100 + age % 10) * 0.90
+        return (self.height - 100 + self.age % 10) * 0.90
 
 print('What\'s your height and age?')
 n = input()
